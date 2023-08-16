@@ -85,6 +85,7 @@ async function includes_words() {
                     counter++
                 }
             }
+            
             vowels[i] = counter
 
         }
